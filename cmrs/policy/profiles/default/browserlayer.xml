@@ -1,0 +1,4 @@
+<layers>
+    <layer name="CMRS policy layer"
+           interface="cmrs.policy.browser.interfaces.IThemeSpecific" />
+</layers>
