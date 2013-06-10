@@ -9,5 +9,6 @@
     <dependency>profile-keble.layout:default</dependency>
     <dependency>profile-oxford.homepage:default</dependency>
     <dependency>profile-oxford.testimonial:default</dependency>
+    <dependency>profile-Products.Carousel:default</dependency>
   </dependencies>
 </metadata>
