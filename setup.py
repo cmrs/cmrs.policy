@@ -49,6 +49,7 @@ setup(name='cmrs.policy',
       zip_safe=False,
       install_requires=[
           'setuptools',
+          'Plone',
       ],
       extras_require = {
           'test': [
