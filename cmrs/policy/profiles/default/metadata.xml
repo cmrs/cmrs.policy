@@ -6,7 +6,6 @@
     <dependency>profile-cmrs.content:default</dependency>
     <dependency>profile-cmrs.course:default</dependency>
     <dependency>profile-cmrs.theme:default</dependency>
-    <dependency>profile-oxford.homepage:default</dependency>
     <dependency>profile-oxford.testimonial:default</dependency>
     <dependency>profile-Products.Carousel:default</dependency>
     <dependency>profile-redturtle.video:default</dependency>
