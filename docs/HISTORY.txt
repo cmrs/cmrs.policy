@@ -1,8 +1,10 @@
 Changelog
 =========
 
-1.2.0 Unreleased
+1.2.0 2013/09/15
 ----------------
+
+- Remove redturtle.video and add PloneSurvey
 
 1.1.0 2013/07/13
 ----------------
